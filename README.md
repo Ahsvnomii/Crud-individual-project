@@ -37,7 +37,7 @@ This project is a basic CRUD (Create, Read, Update, Delete) application develope
    string connectionString = "Data Source=server_name; Initial Catalog=your_db; Integrated Security=True;";
 
 
-### Database Connection & User Interface
+### User Interface
 
 
    ![460524925_496936613208354_8782748925264992982_n](https://github.com/user-attachments/assets/1f0d119a-80a2-4d7d-9106-59a9b4346c8d)
