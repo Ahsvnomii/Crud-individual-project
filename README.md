@@ -3,7 +3,6 @@
 ## Overview
 This project is a basic CRUD (Create, Read, Update, Delete) application developed using C# with Windows Forms as a user interface. It allows users to manage records in a database by performing the following operations:
 - Adding new records.
-- Retrieving/displaying records.
 - Updating existing records.
 - Deleting records.
 
@@ -17,13 +16,10 @@ This project is a basic CRUD (Create, Read, Update, Delete) application develope
 - *Programming Language*: C#
 - *User Interface*: Windows Forms (WinForms)
 - *Database*: Microsoft SQL Server
-- *IDE*: Visual Studio
+- *IDE*: Microsoft Visual Studio
 
 ## Project Workflow
 
-### 1. User Interface (Windows Forms)
-- *Add/Edit Form*: A separate form to enter or modify record details.
-- *Message Boxes*: Used for confirming actions such as deletion or record creation.
 
 ### 2. Database Operations
 - *Create*: Add a new record by submitting a form.
@@ -39,3 +35,8 @@ This project is a basic CRUD (Create, Read, Update, Delete) application develope
 3. Set up the connection string in your project as follows:
    ```csharp
    string connectionString = "Data Source=server_name; Initial Catalog=your_db; Integrated Security=True;";
+
+
+### Database Connection
+
+   
